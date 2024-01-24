@@ -188,7 +188,7 @@ body {
 }
 /* Offer */
 .section-offer {
-  margin-top: 70px;
+  padding-top: 70px;
 }
 .section-offer-cards {
   display: flex;
