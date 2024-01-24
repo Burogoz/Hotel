@@ -188,10 +188,11 @@ body {
 }
 /* Offer */
 .section-offer {
-  padding-top: 70px;
+ padding-top: 70px;
 }
 .section-offer-cards {
   display: flex;
+   padding-top: 70px;
 }
 .section-offer-cards-left {
   display: flex;
